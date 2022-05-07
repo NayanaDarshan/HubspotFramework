@@ -1,0 +1,11 @@
+com\qa\hubspot\utilis\ElementUtil.class
+com\qa\hubspot\utilis\Constants.class
+com\qa\hubspot\base\BaseTest.class
+com\qa\hubspot\utilis\ExcelUtil.class
+com\qa\hubspot\utilis\JSUtil.class
+com\qa\hubspot\utilis\OptionsManager.class
+com\qa\husbpot\Page\LoginPage.class
+com\qa\husbpot\Page\ContactsPage.class
+com\qa\husbpot\Page\HomePage.class
+com\qa\hubspot\base\BasePage.class
+com\qa\husbpot\Page\DealsPage.class

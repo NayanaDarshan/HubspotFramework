@@ -1,0 +1,17 @@
+-------------------------------------------------------------------------------
+Test set: com.qa.hubspot.PageTest.ContactsPageTest
+-------------------------------------------------------------------------------
+Tests run: 5, Failures: 1, Errors: 0, Skipped: 4, Time elapsed: 58.303 s <<< FAILURE! - in com.qa.hubspot.PageTest.ContactsPageTest
+homePageSetup(com.qa.hubspot.PageTest.ContactsPageTest)  Time elapsed: 57.161 s  <<< FAILURE!
+org.openqa.selenium.NoSuchElementException: 
+no such element: Unable to locate element: {"method":"css selector","selector":"#nav\-primary\-contacts\-branch"}
+  (Session info: chrome=85.0.4183.102)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'L505613', ip: '10.63.121.46', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_251'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 85.0.4183.102, chrome: {chromedriverVersion: 85.0.4183.87 (cd6713ebf92fa..., userDataDir: C:\Users\NAYANA~1.RAG\AppDa...}, goog:chromeOptions: {debuggerAddress: localhost:62822}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: 9ad37ff8fce5503e575b3f2b33b92dee
+*** Element info: {Using=id, value=nav-primary-contacts-branch}
+	at com.qa.hubspot.PageTest.ContactsPageTest.homePageSetup(ContactsPageTest.java:17)
+

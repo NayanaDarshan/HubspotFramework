@@ -1,0 +1,4 @@
+com\qa\hubspot\PageTest\HomePageTest.class
+com\qa\hubspot\PageTest\DealsPageTest.class
+com\qa\hubspot\PageTest\ContactsPageTest.class
+com\qa\hubspot\PageTest\LoginPageTest.class
